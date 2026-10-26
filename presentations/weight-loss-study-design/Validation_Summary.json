@@ -1,0 +1,13 @@
+{
+  "slides": 11,
+  "notes": 11,
+  "native_animation_effects": 30,
+  "click_sequences": 16,
+  "morph_transitions": 1,
+  "automatic_slide_advance": false,
+  "spoken_words": 285,
+  "target_duration_seconds": 150,
+  "actual_powerpoint_playback_tested": false,
+  "pdf_pages": 11,
+  "sha256": "c4b5a075ae21c5655f14744de0cca94f1e8fb656c81e05828846c999da605a52"
+}
