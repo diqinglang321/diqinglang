@@ -1,6 +1,12 @@
 # Weight-loss study design critique — animated draft
 
-## Latest version: revision 2
+## Latest version: revision 3
+
+[**Download revised animated PowerPoint**](v3/Study_Design_Critique_v3_Animated.pptx) · [PDF](v3/Study_Design_Critique_v3_Static.pdf) · [Strengths preview](v3/Strengths_Preview_v3.png) · [All revision 3 files](v3/)
+
+Each strength now has a graphic and a why-it-helps explanation. The causal graphic is simpler, the independent ITT page is removed, and the 80→59 transition is retained. Earlier versions remain available below.
+
+## Previous version: revision 2
 
 [**Download revised animated PowerPoint**](v2/Study_Design_Critique_v2_Animated.pptx) · [Revised PDF](v2/Study_Design_Critique_v2_Static.pdf) · [Full explanation](v2/Scientific_Explanation_v2.md) · [All revision 2 files](v2/)
 
