@@ -1,6 +1,12 @@
 # Weight-loss study design critique — animated draft
 
-## Latest version: revision 3
+## Latest version: revision 4
+
+[**Download animated PowerPoint v4**](v4/Study_Design_Critique_v4_Animated.pptx) · [PDF](v4/Study_Design_Critique_v4_Static.pdf) · [Mechanism preview](v4/Mechanism_Preview_v4.png) · [All revision 4 files](v4/)
+
+Three distinct limitations: mechanism not isolated, missing outcomes, and generalisability. More symbols, dashed arrows and question marks; the 80→59 cohort transition and illustrated strengths remain. Earlier revisions are preserved below.
+
+## Previous version: revision 3
 
 [**Download revised animated PowerPoint**](v3/Study_Design_Critique_v3_Animated.pptx) · [PDF](v3/Study_Design_Critique_v3_Static.pdf) · [Strengths preview](v3/Strengths_Preview_v3.png) · [All revision 3 files](v3/)
 
