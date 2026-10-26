@@ -1,0 +1,21 @@
+{
+  "slides": 14,
+  "embedded_notes": 14,
+  "native_animation_effects": 15,
+  "click_sequences": 10,
+  "morph_destination_slides": [
+    4,
+    5,
+    7,
+    8,
+    10,
+    12
+  ],
+  "automatic_slide_advance": false,
+  "spoken_words": 285,
+  "target_duration_seconds": 150,
+  "svg_errors": 0,
+  "svg_warnings": 0,
+  "actual_powerpoint_playback_tested": false,
+  "pptx_sha256": "89496cb5a56595dd6c16b0f9bfb84587fe24d37956462d6c50401bbcb41745be"
+}

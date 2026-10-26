@@ -1,5 +1,11 @@
 # Weight-loss study design critique — animated draft
 
+## Latest version: revision 2
+
+[**Download revised animated PowerPoint**](v2/Study_Design_Critique_v2_Animated.pptx) · [Revised PDF](v2/Study_Design_Critique_v2_Static.pdf) · [Full explanation](v2/Scientific_Explanation_v2.md) · [All revision 2 files](v2/)
+
+Three deeper explanations replace the original improvement checklist. The 80→59 cohort animation is retained. The original first-draft files below are preserved.
+
 English presentation segment on the design of Lim et al. (2024), targeting approximately 2 minutes 30 seconds.
 
 ## Downloads
