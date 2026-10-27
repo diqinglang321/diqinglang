@@ -1,0 +1,48 @@
+{
+  "slides": 17,
+  "speaker_notes": 17,
+  "target_seconds": 150,
+  "script_words": 333,
+  "morph_destinations": [
+    2,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    15,
+    16,
+    17
+  ],
+  "object_effects": 28,
+  "manual_slide_advances": 16,
+  "additional_click_effects": 0,
+  "automatic_slide_advance": false,
+  "pictogram_counts": {
+    "08_eighty": {
+      "total": 80,
+      "observed": 80,
+      "missing": 0
+    },
+    "09_fiftynine": {
+      "total": 80,
+      "observed": 59,
+      "missing": 21
+    },
+    "10_hkd": {
+      "total": 41,
+      "observed": 29,
+      "missing": 12
+    },
+    "11_unknown": {
+      "total": 12,
+      "observed": 0,
+      "missing": 12
+    }
+  },
+  "sha256": "b00163ff557fed4e9d6e389d24829fbc40500e9dbdf7bcf131c2e1fe217202fb",
+  "source_layout_gate": "17/17 passed; zero errors or warnings",
+  "desktop_playback_tested": false,
+  "browser_preview": "Separate renderer; not a native PowerPoint recording."
+}

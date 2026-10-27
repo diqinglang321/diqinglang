@@ -1,0 +1,10 @@
+{
+  "browser": "Chromium",
+  "content_loaded_with": "set_content (managed browser does not permit file URLs)",
+  "scenes_checked": 17,
+  "forward_backward": true,
+  "keyboard": true,
+  "speed_selector": true,
+  "notes_toggle": true,
+  "javascript_errors": []
+}

@@ -1,6 +1,13 @@
-# Weight-loss study design critique — animated draft
+# Weight-loss study design critique — animated presentations
 
-## Latest version: revision 4
+## Latest: v4 Keynote Edition
+
+[**Download the new animated PowerPoint**](v4-keynote/Study_Design_Critique_v4_Keynote_Animated.pptx) · [Motion preview](v4-keynote/Motion_Preview.gif) · [Complete pack](v4-keynote/Keynote_Edition_Pack.zip) · [All new files](v4-keynote/)
+
+17 presenter-controlled scenes, 10 Morph transitions, large typography, native graphics and a self-contained interactive browser preview. The approved v4 scientific structure is preserved. Target: 2:30. Earlier designs remain below.
+
+
+## Original revision 4
 
 [**Download animated PowerPoint v4**](v4/Study_Design_Critique_v4_Animated.pptx) · [PDF](v4/Study_Design_Critique_v4_Static.pdf) · [Mechanism preview](v4/Mechanism_Preview_v4.png) · [All revision 4 files](v4/)
 
