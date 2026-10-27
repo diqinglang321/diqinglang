@@ -1,0 +1,28 @@
+{
+  "slides_checked": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "native_animation_trees_identical": true,
+  "native_transitions_identical": true,
+  "shape_geometry_and_positions_identical": true,
+  "shape_ids_and_morph_names_identical": true,
+  "visible_text_identical": true,
+  "embedded_notes_identical": true,
+  "all_slide_backgrounds": "FFFFFF, resolved through theme lt1"
+}
