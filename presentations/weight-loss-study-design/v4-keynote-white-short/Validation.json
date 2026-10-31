@@ -1,0 +1,22 @@
+{
+  "slides": 16,
+  "removed_original_slide": 13,
+  "removed_caption_count": 7,
+  "morph_destinations": [
+    2,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16
+  ],
+  "object_effects": 25,
+  "auto_advance": false,
+  "svg_layout_check": "passed, zero warnings",
+  "native_export": "passed, zero warnings",
+  "desktop_playback_tested": false
+}

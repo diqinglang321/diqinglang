@@ -1,5 +1,11 @@
 # Weight-loss study design critique — animated presentations
 
+## Latest: shortened white edition
+
+[**Download 16-slide PPTX**](v4-keynote-white-short/Study_Design_Critique_White_Short_Animated.pptx) · [PDF](v4-keynote-white-short/Study_Design_Critique_White_Short_Static.pdf)
+
+Seven requested captions and original slide 13 removed; remaining layout and animation preserved.
+
 ## White-background edition
 
 [**Download white PPTX**](v4-keynote-white/Study_Design_Critique_v4_Keynote_White_Animated.pptx) · [White preview](v4-keynote-white/Mechanism_Preview.png) · [All white edition files](v4-keynote-white/)
