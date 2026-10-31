@@ -1,5 +1,11 @@
 # Weight-loss study design critique — animated presentations
 
+## Latest: personalised HTML and PPTX
+
+[**Download interactive HTML ZIP**](v4-keynote-white-short-named/Interactive_HTML.zip) · [Animated PPTX](v4-keynote-white-short-named/Di_Qinglang_Study_Design_Animated.pptx)
+
+The shortened 16-slide white edition, with Di Qinglang 3036645052 on every slide.
+
 ## Latest: shortened white edition
 
 [**Download 16-slide PPTX**](v4-keynote-white-short/Study_Design_Critique_White_Short_Animated.pptx) · [PDF](v4-keynote-white-short/Study_Design_Critique_White_Short_Static.pdf)

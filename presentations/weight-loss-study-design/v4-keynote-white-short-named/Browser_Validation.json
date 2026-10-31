@@ -1,0 +1,8 @@
+{
+  "scenes": 16,
+  "credit_verified_on_every_scene": true,
+  "navigation": true,
+  "speed_control": true,
+  "script_toggle": true,
+  "javascript_errors": []
+}
